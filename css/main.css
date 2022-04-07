@@ -14,7 +14,7 @@
 .bodyIndexSmarphone{
     width: 90%;
     height: 100vh;
-    background-image:url(/img/bodyPhone.jpeg);
+    background-image:url(../img/bodyPhone.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -700,7 +700,7 @@ justify-content: center;
 .bodyIndex{
     width: 100%;
     height: 100vh;
-    background-image:url(/img/homemoto.jpeg);
+    background-image:url(../img/homemoto.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1394,7 +1394,7 @@ margin: auto;
 .bodyIndex{
      width: 100%;
      height: 100vh;
-     background-image: url(/img/homemoto.jpeg);
+     background-image: url(../img/homemoto.jpeg);
      background-size: cover;
      background-repeat: no-repeat;
 }
